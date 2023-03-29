@@ -3,7 +3,7 @@
 </div>
 
 <div align='center'>
-  <img src='https://github-readme-streak-stats.herokuapp.com/?user=zqfd'/><br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=zqfd&theme=dark&sideLabels=EB5454"/></a><br><br>
   Join our VERY small organization for begginers who want to learn and for pros who want to teach!
   https://github.com/Blocus-org
 </div>
