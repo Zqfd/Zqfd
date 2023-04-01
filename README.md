@@ -11,10 +11,13 @@
     <summary>📝 Programming languages</summary><br>
     <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=zqfd&layout=compact&hide_progress=true' />
   </details>
+  <details>
+    <summary>If you want to work with me</summary><br>
+      <h2>https://github.com/Blocus-org</h2>
+  </details>
 </div>
 <div align='center'>
-  <h2>Join our VERY small organization for begginers who want to learn and for pros who want to teach!
-  https://github.com/Blocus-org</h2>
+
 </div>
 
 
