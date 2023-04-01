@@ -10,9 +10,9 @@
   <details>
     <summary>📝 Programming languages</summary><br>
     <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=zqfd&layout=compact&hide_progress=true' />
-  </details>
+  </details><br>
   <details>
-    <summary>If you want to work with me</summary><br>
+    <summary>💬 If you want to work with me</summary><br>
       <h2>https://github.com/Blocus-org</h2>
   </details>
 </div>
