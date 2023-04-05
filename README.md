@@ -16,7 +16,7 @@
     <summary>💬 If you want to work with me</summary><br>
       <h2>https://github.com/Blocus-org</h2>
   </details>
-  <img src="https://visitcount.itsvg.in/api?id=zqfd&label=Profile%20Views&color=12&icon=0&pretty=false" />
+  <img align='left' src="https://visitcount.itsvg.in/api?id=zqfd&label=Profile%20Views&color=12&icon=0&pretty=false" />
 </div>
 
 
