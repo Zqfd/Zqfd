@@ -9,10 +9,6 @@
     <img src="https://github-readme-stats.vercel.app/api?username=zqfd&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/></a>
   </details><br>
   <details>
-    <summary>📝 Programming languages</summary><br>
-    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=zqfd&layout=compact&hide_progress=true' />
-  </details><br>
-  <details>
     <summary>💬 If you want to work with me</summary><br>
       <h2>https://github.com/Blocus-org</h2>
       <h2>blocus-org@proton.me</h2>
